@@ -2,7 +2,7 @@
 publish: true
 title: 如何使用Quartz Syncer插件同步博客到Quartz
 created: 2026-03-10T21:07:14.934+08:00
-modified: 2026-03-11T21:58:16.097+08:00
+modified: 2026-03-11T22:13:52.699+08:00
 cssclasses: ""
 ---
 
@@ -17,7 +17,7 @@ Quartz Syncer支持：
 - 不用打开各种配置文件在obsidian就能完成发布
 - Quartz Syncer 支持多种 Git 提供商，包括 GitHub、GitLab、Bitbucket、Codeberg、Gitea 和自托管实例。
 
-安装步骤：
+使用步骤：
 1. [搭建仓库](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup) 
 2. [使用插件](https://saberzero1.github.io/quartz-syncer-docs/Usage-Guide)
 
