@@ -2,7 +2,7 @@
 publish: true
 title: 如何使用Quartz Syncer插件同步博客到Quartz
 created: 2026-03-10T21:07:14.934+08:00
-modified: 2026-03-10T21:23:13.616+08:00
+modified: 2026-03-11T21:58:16.097+08:00
 cssclasses: ""
 ---
 
@@ -20,3 +20,4 @@ Quartz Syncer支持：
 安装步骤：
 1. [搭建仓库](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup) 
 2. [使用插件](https://saberzero1.github.io/quartz-syncer-docs/Usage-Guide)
+
